@@ -1,7 +1,7 @@
 {
   "name": "header",
-  "entry": "src/index.html",
-  "styles": ["src/css/index.scss"],
+  "entry": "template/index.html",
+  "styles": ["template/css/index.scss"],
   "_comments": {
     "container": "head | body",
     "position": "start | end | comment",
