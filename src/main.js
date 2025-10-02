@@ -1,6 +1,6 @@
-import templateHtml from "../template/index.html?raw"; // raw-loader для Vite
-import "../template/css/index.scss"; // SCSS подключается в preview
-import "../template/js/index.js"; // JS подключается в preview
+import templateHtml from "../template/index.html?raw"; // raw-loader
+import "../template/css/index.scss"; // SCSS
+import "../template/js/index.js"; // JS
 
 const app = document.getElementById("app");
 
